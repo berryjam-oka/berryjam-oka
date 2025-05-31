@@ -4,7 +4,13 @@
 
 <div align="center">
  
-![Logo](https://64.media.tumblr.com/0bb1182abe6ca911f74f8bdfde439dc1/06e3973867121832-70/s540x810/d7cc99232e72f89d80c5244cd3d8f36cf4fdf83b.gifv)
+###
+
+<div align="center">
+  <img height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiXtjH1iBhh-pHTQnL5v3qxIigG1ouDHQIL0N9HF4VM-KnegvtH2CMQYNpZA9EItZjdICql5zaHGeFDUCUcvKmyTbl7q-oIe4kjyENH8OdVkkUmUkPBglxlEqz0LJvhgCEZtr0sL2TbbTk2S0UcgiPgdC69cN-bVYtdm868TDklhUo1H9lDZUVB8dlvGk/s320/rylan.gif"  />
+</div>
+
+###
 
 </div>
 
@@ -13,3 +19,7 @@
 <p align="center">⎙ . イ 𝓦ait, is that a bear? リ. ౨</p>
 
 ###
+
+
+</div>
+
